@@ -1,1 +1,33 @@
+# Site settings
+title: Machine Learning with AWS
+description: This is a project on machine learning with Python
+
+baseurl: ""  # Leave empty if not using a subdirectory
+
+# Theme settings
+theme: jekyll-theme-cayman  # Example theme, replace with your desired theme
+
+# Author settings
+author:
+  name: Alex Wechuli
+  email: alexwechuli5@gmail.com 
+
+# Social media links
+social:
+  twitter: your_twitter_handle
+  github: Alecoder1
+ 
+# Build settings
+markdown: kramdown  # Markdown processor
+permalink: pretty  # URL structure
+
+# Plugins (if needed)
+plugins:
+  - jekyll-feed  # For RSS feed
+  - jekyll-seo-tag  # For SEO tags
+
+# Custom settings (if applicable)
+custom:
+  color_scheme: dark  # Example custom setting
+  layout: single  # Example layout setting
 
